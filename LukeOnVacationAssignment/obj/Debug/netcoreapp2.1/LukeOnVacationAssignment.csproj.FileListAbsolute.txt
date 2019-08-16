@@ -1,0 +1,12 @@
+C:\Users\CodeSmart\source\repos\LukeOnVacationAssignment\bin\Debug\netcoreapp2.1\LukeOnVacationAssignment.deps.json
+C:\Users\CodeSmart\source\repos\LukeOnVacationAssignment\bin\Debug\netcoreapp2.1\LukeOnVacationAssignment.runtimeconfig.json
+C:\Users\CodeSmart\source\repos\LukeOnVacationAssignment\bin\Debug\netcoreapp2.1\LukeOnVacationAssignment.runtimeconfig.dev.json
+C:\Users\CodeSmart\source\repos\LukeOnVacationAssignment\bin\Debug\netcoreapp2.1\LukeOnVacationAssignment.dll
+C:\Users\CodeSmart\source\repos\LukeOnVacationAssignment\bin\Debug\netcoreapp2.1\LukeOnVacationAssignment.pdb
+C:\Users\CodeSmart\source\repos\LukeOnVacationAssignment\obj\Debug\netcoreapp2.1\LukeOnVacationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\CodeSmart\source\repos\LukeOnVacationAssignment\obj\Debug\netcoreapp2.1\LukeOnVacationAssignment.AssemblyInfoInputs.cache
+C:\Users\CodeSmart\source\repos\LukeOnVacationAssignment\obj\Debug\netcoreapp2.1\LukeOnVacationAssignment.AssemblyInfo.cs
+C:\Users\CodeSmart\source\repos\LukeOnVacationAssignment\obj\Debug\netcoreapp2.1\LukeOnVacationAssignment.dll
+C:\Users\CodeSmart\source\repos\LukeOnVacationAssignment\obj\Debug\netcoreapp2.1\LukeOnVacationAssignment.pdb
+C:\Users\CodeSmart\source\repos\LukeOnVacationAssignment\obj\Debug\netcoreapp2.1\LukeOnVacationAssignment.csprojAssemblyReference.cache
+C:\Users\CodeSmart\source\repos\LukeOnVacationAssignment\bin\Debug\netcoreapp2.1\LukeOnVacationAssignment.dll.config
